@@ -1,4 +1,4 @@
-#✅To-Do App
+# To-Do✅ App
 
 A beginner-friendly To-Do List Application built using HTML, CSS, and JavaScript.
 This project is designed to practice and understand the fundamentals of CRUD operations (Create, Read, Update, Delete) in web development.
